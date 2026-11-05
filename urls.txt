@@ -1,0 +1,63 @@
+02-wikimedia-commons.md	Commons main search	https://commons.wikimedia.org/wiki/Main_Page
+02-wikimedia-commons.md	Commons public domain category	https://commons.wikimedia.org/wiki/Category:Public_domain
+02-wikimedia-commons.md	Commons CC0 category	https://commons.wikimedia.org/wiki/Category:CC-Zero
+02-wikimedia-commons.md	Botanical illustrations	https://commons.wikimedia.org/wiki/Category:Botanical_illustrations
+02-wikimedia-commons.md	Herbals	https://commons.wikimedia.org/wiki/Category:Herbals
+02-wikimedia-commons.md	Seed catalogs	https://commons.wikimedia.org/wiki/Category:Seed_catalogs
+02-wikimedia-commons.md	Anatomy	https://commons.wikimedia.org/wiki/Category:Anatomy
+02-wikimedia-commons.md	Audubon's Birds of America	https://commons.wikimedia.org/wiki/Category:John_James_Audubon
+02-wikimedia-commons.md	PD image resources master list	https://en.wikipedia.org/wiki/Public_domain_image_resources
+03-vintage-botanical-prints.md	Biodiversity Heritage Library	https://www.biodiversitylibrary.org/
+03-vintage-botanical-prints.md	BHL collections browse	https://www.biodiversitylibrary.org/browse/collection
+03-vintage-botanical-prints.md	BHL on Flickr	https://www.flickr.com/photos/biodivlibrary
+03-vintage-botanical-prints.md	BHL Flickr albums	https://www.flickr.com/photos/biodivlibrary/albums
+03-vintage-botanical-prints.md	Biodiversity Heritage Library items with full-page plates	https://www.biodiversitylibrary.org/search?searchTerm=botanical&search_type=all
+03-vintage-botanical-prints.md	NYPL Digital Collections	https://digitalcollections.nypl.org/
+03-vintage-botanical-prints.md	Old Book Illustrations	https://www.oldbookillustrations.com/
+04-vintage-anatomy-prints.md	Gray's Anatomy plates (1918)	https://commons.wikimedia.org/wiki/Category:Gray's_Anatomy_plates
+04-vintage-anatomy-prints.md	Historic anatomical plates and drawings	https://commons.wikimedia.org/wiki/Category:Historic_anatomical_plates_and_drawings
+04-vintage-anatomy-prints.md	Anatomical plates and drawings	https://commons.wikimedia.org/wiki/Category:Anatomical_plates_and_drawings
+04-vintage-anatomy-prints.md	Anatomical models	https://commons.wikimedia.org/wiki/Category:Anatomical_models
+04-vintage-anatomy-prints.md	Internet Archive	https://archive.org/
+05-nasa-space-imagery.md	NASA Image and Video Library	https://images.nasa.gov/
+05-nasa-space-imagery.md	NASA image use guidelines	https://www.nasa.gov/nasa-brand-center/images-and-media/
+05-nasa-space-imagery.md	JPL Photojournal	https://photojournal.jpl.nasa.gov/
+05-nasa-space-imagery.md	NASA Scientific Visualization Studio	https://svs.gsfc.nasa.gov/
+05-nasa-space-imagery.md	NASA Earth Observatory	https://earthobservatory.nasa.gov/images
+05-nasa-space-imagery.md	Gateway to Astronaut Photography	https://eol.jsc.nasa.gov/
+05-nasa-space-imagery.md	Hubble (STScI) site	https://hubblesite.org/resource-gallery/images
+05-nasa-space-imagery.md	National Air and Space Museum collection	https://airandspace.si.edu/collections
+06-library-of-congress.md	Free to Use & Reuse sets	https://www.loc.gov/free-to-use/
+06-library-of-congress.md	Prints & Photographs Online Catalog	https://www.loc.gov/pictures/
+06-library-of-congress.md	LOC collections hub	https://www.loc.gov/collections/
+06-library-of-congress.md	Chronicling America (historic newspapers)	https://chroniclingamerica.loc.gov/
+06-library-of-congress.md	Gardens set (F2U)	https://www.loc.gov/free-to-use/gardens/
+06-library-of-congress.md	LOC copyright guidance	https://www.loc.gov/rr/print/195_copr.html
+06-library-of-congress.md	WPA posters	https://www.loc.gov/free-to-use/wpa-posters/
+06-library-of-congress.md	Nurses and Nursing set (F2U)	https://www.loc.gov/free-to-use/nurses-and-nursing/
+06-library-of-congress.md	Classic Children's Books set (F2U)	https://www.loc.gov/free-to-use/classic-childrens-books/
+07-icon-sets.md	Bootstrap Icons	https://github.com/twbs/icons
+07-icon-sets.md	Tabler Icons	https://tabler.io/icons
+07-icon-sets.md	Lucide	https://lucide.dev
+07-icon-sets.md	Feather Icons	https://feathericons.com/
+07-icon-sets.md	Phosphor Icons	https://phosphoricons.com/
+07-icon-sets.md	Heroicons	https://heroicons.com/
+07-icon-sets.md	Material Symbols	https://fonts.google.com/icons?icon.set=Material+Symbols
+07-icon-sets.md	Font Awesome Free	https://fontawesome.com/search?o=r&m=free
+07-icon-sets.md	Simple Icons	https://github.com/simple-icons/simple-icons
+07-icon-sets.md	Octicons	https://github.com/primer/octicons
+07-icon-sets.md	Iconify	https://icon-sets.iconify.design/
+07-icon-sets.md	Game-icons.net	https://game-icons.net/
+08-museum-open-access.md	Smithsonian Open Access	https://www.si.edu/openaccess
+08-museum-open-access.md	The Met Open Access	https://www.metmuseum.org/art/collection
+08-museum-open-access.md	Met open-access policy page	https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+08-museum-open-access.md	Art Institute of Chicago	https://www.artic.edu/collection
+08-museum-open-access.md	Rijksmuseum Rijksstudio	https://www.rijksmuseum.nl/en/rijksstudio
+08-museum-open-access.md	Cleveland Museum of Art Open Access	https://www.clevelandart.org/open-access
+09-search-hubs-and-photo-libraries.md	Openverse	https://openverse.org/
+09-search-hubs-and-photo-libraries.md	Pixabay	https://pixabay.com/
+09-search-hubs-and-photo-libraries.md	Pexels	https://www.pexels.com/license/
+09-search-hubs-and-photo-libraries.md	Unsplash	https://unsplash.com/
+09-search-hubs-and-photo-libraries.md	PublicDomainPictures.net	https://www.publicdomainpictures.net/en/
+09-search-hubs-and-photo-libraries.md	Openclipart	https://openclipart.org/
+09-search-hubs-and-photo-libraries.md	PICRYL	https://picryl.com/
